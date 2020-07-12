@@ -1,6 +1,6 @@
 # Keith Rozario
 
- Architect 📐 | Pythonista 🐍 | Blogger 👨‍💻 |
+ Architect 📐  |  Pythonista 🐍  |  Blogger 👨‍💻  |
  
  Most of my work is focused on ⚡serverless⚡ and Python.
  
