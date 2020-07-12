@@ -1,9 +1,6 @@
-# keithRozario
+<h1 align="center"> keithRozario </h1>
 
- Architect 📐  |  Pythonista 🐍  |  Blogger 👨‍💻  |
- 
- Most of my work is focused on ⚡serverless⚡ and Python.
- 
- Hit me up keith [at] keithrozario [dot] com.
- 
- Keith
+![BG](bg.png)
+
+
+<h3 align="center">Architect 📐  | Pythonista 🐍 | Blogger 👨‍💻 </h3>
