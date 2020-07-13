@@ -1,9 +1,10 @@
 <br>
 <p align="center">
-<img align="center" width="150" height="150" src="https://www.keithrozario.com/wp-content/uploads/795867.png"> <br><br>
 <img align="center" src="https://img.shields.io/badge/keith-Rozario-blue">
 </p>
 <h3 align="center">Architect 📐 | Pythonista 🐍 | Blogger 👨‍💻 </h3>
+
+#
 
 ### Keith - @keithRozario
 
