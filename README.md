@@ -5,7 +5,6 @@
 </p>
 <h3 align="center">Architect 📐 | Pythonista 🐍 | Blogger 👨‍💻 </h3>
 
-<<<<<<< HEAD
 ### Keith - @keithRozario
 
 * Ask me about Serverless ⚡
@@ -21,6 +20,3 @@
 ### Active Projects
 
 * [Klayers](https://github.com/keithrozario/Klayers) : Collection of Python Packages as AWS Lambda Layers
-=======
-![BG](https://www.keithrozario.com/wp-content/uploads/bg.png)
->>>>>>> 6503200be1069b47b6b1f26c6104f6ec56b99c93
