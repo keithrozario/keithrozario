@@ -6,9 +6,9 @@
 
 #
 
-### Keith - @keithRozario
+### 😎 Ask me about
 
-* Ask me about Serverless ⚡
+* Serverless ⚡
 * Or Python 🐍
 * Better still -- Serverless with Python  ⚡ 💖 🐍
 
