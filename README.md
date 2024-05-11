@@ -4,6 +4,8 @@
 </p>
 <h3 align="center">Architect 📐 | Pythonista 🐍 | Blogger 👨‍💻 </h3>
 
+![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=krozario&show_icons=true&theme=transparent)
+
 ### Contact
 
 * [@keithrozario](https://twitter.com/keithrozario?lang=en) at twitter
