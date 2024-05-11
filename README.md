@@ -4,9 +4,9 @@
 </p>
 <h3 align="center">Architect 📐 | Pythonista 🐍 | Blogger 👨‍💻 </h3>
 
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=keithrozario&show_icons=true&theme=transparent">
-
+</p>
 
 ### Contact
 
